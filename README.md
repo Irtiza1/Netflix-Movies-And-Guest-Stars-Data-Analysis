@@ -1,5 +1,5 @@
 # Netflix-Movies-And-Guest-Stars-Data-Analysis
-![](https://github.com/Irtiza1/Netflix-Movies-And-Guest-Stars-Data-Analysis/assets/65397723/e997af67-8559-42c5-9ab9-403f0b27554c)
+![](https://github.com/Irtiza1/Netflix-Movies-And-Guest-Stars-Data-Analysis/assets/65397723/4187180c-deaa-4b0f-a64a-61713b2aa37b)
 
 
 # 🎬 Exploring Netflix Movie Trends 📊
