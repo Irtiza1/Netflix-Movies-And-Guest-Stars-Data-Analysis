@@ -1,19 +1,14 @@
 # Netflix-Movies-And-Guest-Stars-Data-Analysis
-<div align="center">
-  <img src="https://your-image-link-here.com" alt="Exploring Netflix Movie Trends">
-</div>
+![](https://github.com/Irtiza1/Netflix-Movies-And-Guest-Stars-Data-Analysis/assets/65397723/e997af67-8559-42c5-9ab9-403f0b27554c)
+
 
 # 🎬 Exploring Netflix Movie Trends 📊
 
 Uncover the fascinating world of Netflix movie data with our engaging Python project! From humble beginnings as a DVD rental service, Netflix has evolved into a media giant with over 200 million subscribers worldwide. Now, it's your turn to dive into the entertainment industry and analyze trends in movie durations.
 
-<div align="center">
-  <img src="https://your-image-link-here.com" alt="Time Travel">
-</div>
-
 ## 📅 Time Travel to the Past
 
-Discover how movie durations have evolved over the years. We'll start by loading your friend's data into a dictionary, capturing the average movie durations from 2011 to 2020. With the power of pandas, we'll explore this information further to understand the changing landscape of film lengths.
+Discover how movie durations have evolved over the years. We'll start by loading friends' data into a dictionary, capturing the average movie durations from 2011 to 2020. With the power of pandas, we'll explore this information further to understand the changing landscape of film lengths.
 
 <div align="center">
   <img src="https://your-image-link-here.com" alt="Crafting Insights">
@@ -21,7 +16,7 @@ Discover how movie durations have evolved over the years. We'll start by loading
 
 ## 📊 Crafting Insights through Visualizations
 
-Unleash the power of data visualization as we create captivating line and scatter plots. Visualize the decline in average movie durations using matplotlib's pyplot library. Observe the intriguing trends that emerge as we chart the course of movie lengths against release years, all while experimenting with various styles and colors to make your insights pop.
+Unleash the power of data visualization as we create captivating line and scatter plots. Visualize the decline in average movie durations using Matplotlib's pyplot library. Observe the intriguing trends that emerge as we chart the course of movie lengths against release years, all while experimenting with various styles and colors to make your insights pop.
 
 <div align="center">
   <img src="https://your-image-link-here.com" alt="Dive into the Data">
